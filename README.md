@@ -11,3 +11,16 @@
 
 ### A passionate developer who loves building innovative tech solutions. From crafting dynamic websites to designing robust backend systems, I thrive on solving coding challenges with creativity and efficiency.
 
+<br>
+
+<div align="center">
+  <a href="shahikbalahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shah-ikbal-ahmed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
